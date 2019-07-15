@@ -7,7 +7,7 @@ ami="ami-0f2176987ee50226e"
 instance_type="t2.micro"
 }
 
-resource "aws_s3_bucket" "myfirstbkt27" {
+resource "aws_s3_bucket" "myfirstbkt127" {
 bucket="myfirstbucket155"
 acl="private"
 }
